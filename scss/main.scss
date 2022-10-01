@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import './abstracts/_variables.scss';
+@import './base/_base.scss';
+@import './components/_home.scss';
+@import './pages/_home.scss';
