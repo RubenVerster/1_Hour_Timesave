@@ -5,13 +5,13 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Boilerplate App</title>
+        <title>NASA Tech Reports</title>
         <meta name='description' content='A boilerplate app' />
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
       <main>
-        <h1>Next + TypeScript + TailwindCSS</h1>
+        <h1>NASA Tech Reports</h1>
 
         <div>Boilerplate app for faster development. Maybe look into Redwood as well</div>
       </main>
