@@ -19,9 +19,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main>
-        <h1>NASA Tech Reports</h1>
-
-        <div>Boilerplate app for faster development. Maybe look into Redwood as well</div>
+        <h1>WikiReplace</h1>
 
         <div>
           <div>
@@ -38,7 +36,7 @@ const Home: NextPage = () => {
 
       <footer>
         <a href='https://rubenverster.com' target='_blank' rel='noopener noreferrer'>
-          Ruben Verster
+          &copy; Ruben Verster
         </a>
       </footer>
     </div>
