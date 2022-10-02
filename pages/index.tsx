@@ -13,13 +13,13 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>NASA Tech Reports</title>
+        <title>Boilerplate</title>
         <meta name='description' content='A boilerplate app' />
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
       <main>
-        <h1>WikiReplace</h1>
+        <h1>Boilerplate App</h1>
 
         <div>
           <div>
